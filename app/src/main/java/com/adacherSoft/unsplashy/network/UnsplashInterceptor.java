@@ -10,10 +10,7 @@ public class UnsplashInterceptor {
 
     public  GetSplash get() {
 
-
         return null;
-
-
 
     }
 }
